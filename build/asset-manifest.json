@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93f5f206.chunk.css",
+    "main.js": "/static/js/main.e6d755d8.chunk.js",
+    "main.js.map": "/static/js/main.e6d755d8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.28c1edf0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.28c1edf0.js.map",
+    "static/js/2.718ed917.chunk.js": "/static/js/2.718ed917.chunk.js",
+    "static/js/2.718ed917.chunk.js.map": "/static/js/2.718ed917.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.66ca9e568722f03ad2d8702289b3b684.js": "/precache-manifest.66ca9e568722f03ad2d8702289b3b684.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.93f5f206.chunk.css.map": "/static/css/main.93f5f206.chunk.css.map",
+    "static/js/2.718ed917.chunk.js.LICENSE.txt": "/static/js/2.718ed917.chunk.js.LICENSE.txt",
+    "static/media/bible_sagrada1.png": "/static/media/bible_sagrada1.e93dd6bc.png",
+    "static/media/bible_sagrada2.png": "/static/media/bible_sagrada2.632ce9c2.png",
+    "static/media/bible_sagrada3.png": "/static/media/bible_sagrada3.e3d0418b.png",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/santa_bible_1.png": "/static/media/santa_bible_1.63cb20ed.png",
+    "static/media/santa_bible_2.png": "/static/media/santa_bible_2.0221268f.png",
+    "static/media/santa_bible_3.png": "/static/media/santa_bible_3.d63045a2.png",
+    "static/media/santa_bible_4.png": "/static/media/santa_bible_4.d074b913.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28c1edf0.js",
+    "static/js/2.718ed917.chunk.js",
+    "static/css/main.93f5f206.chunk.css",
+    "static/js/main.e6d755d8.chunk.js"
+  ]
+}
