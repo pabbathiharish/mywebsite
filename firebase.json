@@ -8,9 +8,12 @@
     ],
     "rewrites": [ {
       "source": "/APP.ADS.TXT",
-      "destination": "../APP.ADS.TXT"
+      "destination": "../app-ads.txt"
+    },
+    {
+      "source": "/app-ads.txt",
+      "destination": "../app-ads.txt"
     }],
     "appAssociation": "AUTO"
-
   }
 }
